@@ -1,0 +1,19 @@
+
+H1 {
+     color: brown;
+
+}
+*{
+ font-size: 15px;
+ color:blueviolet;
+}
+
+h3,P{
+    color:darksalmon;
+} 
+body{
+    background-color: deepskyblue;
+}
+ h1,p{
+    background-color: seagreen;
+ }
